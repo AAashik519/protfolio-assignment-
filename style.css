@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.container{
+    width:90%;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+.top-section{
+    
+}
+.top-text {
+	width: 40%;
+	margin: 0 1%;
+	float: left;
+	padding-left: 70px;
+	padding-top: 90px;
+}
+.top-text h1 {
+	font-size: 60px;
+	padding: 40px 20px;
+}
+ .highlight-text{
+     color: orange;
+ }
+ .high-l2{
+     color: rgb(5, 5, 85);
+ }
+.top-text p{
+    padding: 10px 20px;
+    font-size: 18px ;
+    color: #474545;
+    margin-bottom: 20px;
+}
+.top-text a{
+     margin: 15px 20px ;
+     display:inline-block ;
+     margin-top: 20px;
+}
+.button {
+	text-decoration: none;
+	padding: 20px 62px;
+	color: #fff;
+	background: linear-gradient(lightSalmon, tomato);
+	border: 1px solid salmon;
+	border-radius: 9px;
+	font-size: 22px;
+}
+.top-img {
+	width: 40%;
+	float: left;
+	padding-left: 100px;
+	margin: 0 1%;
+    padding-top: 60px;
+    
+}
+.top-img.img-set{
+    width: 40%;
+    float: left;
+    margin: 0 1%;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+.top-img img{
+    width: 500px;
+    height: auto;
+}
+.mid-text h2{
+    font-size: 40px;
+    padding: 40px 20px;
+}
+.top-text.mid-text {
+	margin-left: 115px;
+}
+ 
+  .about{
+      margin-bottom: 55px;
+  }
+  .project {
+	padding-bottom: 130px;
+	background: #eef3f3;
+}
+
+  .project-heading{
+      font-size: 50px;
+      text-align: center;
+  }
+  .wording-project{
+      padding: 80px 0;
+      
+  }
+  span{
+color:red ;
+  }
+
+  .img-box {
+	width: 30%;
+	background: #fff;
+	border-radius: 14px;
+    padding: 10px;
+    float: left;
+    margin: 0 12px;
+    -webkit-box-shadow: 40px -38px 44px -26px rgba(0,0,0,0.36);
+    -moz-box-shadow: 40px -38px 44px -26px rgba(0,0,0,0.36);
+    box-shadow: 40px -38px 44px -26px rgba(0,0,0,0.36);
+}
+.icon{
+    color: #fff;
+}
+  .img-box img{
+      width: 100%;
+      padding: 5px;
+  }
+  .img-box h3 {
+	padding: 8px;
+}
+.img-box p {
+	padding: 8px;
+	color: #767676;
+}
+ .show-project {
+       padding: 0 85px;
+ }
+ 
+ .Work-Inquiry {
+	padding: 115px 50px;
+}
+ .info {
+	background: url("img/Group_33094_1.png") no-repeat center;
+	height: 252px;
+	max-width: 80%;
+	margin: 0 auto;
+	border-radius: 25px;
+}
+ .info h1 {
+	display: inline-block;
+	font-size: 70px;
+	color: #fff;
+    margin: 103px 60px;
+}
+ .info a {
+	float: right;
+	margin: 103px 60px;
+}
+.Stay-connected {
+	margin: 110px 0;
+	text-align: center;
+}
+.Stay-connected h2{
+    color: #767676;
+    padding: 10px 0;
+}
+.Stay-connected h1{
+    padding: 15px 0;
+    color: rgb(63, 63, 173);
+    font-size: 40px;
+}
+.Stay-connected img {
+	width: 50px;
+	height: auto;
+	margin: 7px;
+}
+
+.end-section {
+	background-color: #2c3e50;
+	padding: 20px;
+	color: #fff;
+	text-align: center;
+	font-size: 18px;
+}
